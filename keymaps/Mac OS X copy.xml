@@ -1,0 +1,77 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateAtlassianToolWindow">
+    <keyboard-shortcut first-keystroke="f15" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CollapseSelection" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="TableResult.GrowSelection" />
+  <action id="TypeHierarchy.Class">
+    <keyboard-shortcut first-keystroke="f14" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+</keymap>
