@@ -71,7 +71,11 @@
   <action id="TypeHierarchy.Class">
     <keyboard-shortcut first-keystroke="f14" />
   </action>
+  <action id="Unscramble">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
