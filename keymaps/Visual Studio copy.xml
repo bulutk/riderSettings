@@ -32,6 +32,7 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
